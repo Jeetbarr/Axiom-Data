@@ -1,0 +1,9 @@
+{
+	"name": "AXIOM-DATA",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ece8a386-8c6c-4b4a-948b-8978eb8bc436",
+		"tenantId": "38a1e0a1-b6b1-42e9-b3a9-597626670b17"
+	}
+}
